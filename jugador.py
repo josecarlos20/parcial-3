@@ -1,7 +1,4 @@
-public class Persona extends jugador{
-    public String nombre;
-    public String nif;
-    public String fechaNAC;
+public class Persona extends jugador
     
     def __init__(self, numfed):
     self.numfed=numfed
